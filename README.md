@@ -12,7 +12,7 @@ https://github.com/inesakarapetyan/Transportation/assets/165501683/5c7766a4-a3c7
 |                                                            DESCRIPTION                                                                                |
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Transportation page where you can reproduce the transportation of your goods.
+Globe Track page where you can reproduce the transportation of your goods.
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
